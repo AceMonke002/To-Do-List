@@ -21,6 +21,10 @@ This is a simple graphical To-Do List Manager application built using Python and
     ```bash
     python main.py
     ```
+    or
+    ```bash
+    python3 main.py
+    ```
 4. The application window will open, and you can start managing your tasks!
 
 ## File Structure:
