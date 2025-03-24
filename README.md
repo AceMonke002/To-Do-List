@@ -18,11 +18,11 @@ This is a simple graphical To-Do List Manager application built using Python and
 1. Clone or download this repository.
 2. Install Python 3.x if you don't have it already: [Download Python](https://www.python.org/downloads/)
 3. Run the following command to start the application:
-    For Windows
+    ## For Windows
     ```bash
     python main.py
     ```
-    For MacOS
+    ## For MacOS
     ```bash
     python3 main.py
     ```
