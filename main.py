@@ -21,7 +21,7 @@ class App(tk.Tk):
         super().__init__()
 
         self.title("To-Do List Manager")
-        self.geometry("450x450")
+        self.geometry("300x450")
         self.resizable(False, False)
 
         self.container = tk.Frame(self)
